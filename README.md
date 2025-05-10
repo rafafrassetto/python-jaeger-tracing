@@ -33,7 +33,7 @@ docker run -d --name jaeger \
 ```bash
 http://localhost:16686
 ```
-3 - # Instalei as depências : 
+3 - Instalei as depências : 
 ```bash
 pip install flask requests opentelemetry-sdk opentelemetry-exporter-otlp
 opentelemetry-instrumentation-flask opentelemetry-instrumentation-requests
